@@ -1,0 +1,15 @@
+.basic > h1 {
+  background-color: aqua;
+  color: white;
+  text-align: center;
+  border: 3px solid red;
+  width: 300px;
+  margin: auto;
+}
+
+.basic > p {
+  background-color: coral;
+  color: black;
+  margin: 10px auto;
+  width: 300px;
+}
