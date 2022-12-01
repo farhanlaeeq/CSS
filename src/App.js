@@ -8,6 +8,16 @@ function App() {
       <h1>Heading 1</h1>
       <p>This is a paragrph.</p>
     </div>
+
+    <div className='background background1'>
+      <h1>CSS BACKGROUND PROPERTIES</h1>
+    </div>
+    <div className='background background2'>
+      <h1>CSS BACKGROUND PROPERTIES</h1>
+    </div>
+    <div className='background background3'>
+      <h1>CSS BACKGROUND PROPERTIES</h1>
+    </div>
     </>
   );
 }
